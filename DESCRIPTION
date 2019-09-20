@@ -1,0 +1,11 @@
+Package: MyFirstRPackage
+Type: Package
+Title: Inference for Simple Linear Regression
+Version: 1.0
+Date: 2019-09-16
+Author: Pierre Lafaye De Micheaux
+Maintainer: Pierre Lafaye De Micheaux <lafaye@unsw.edu.au>
+Description: Estimation of the parameters of a simple linear regression model
+ and computation of randomised p-values.
+License: GPL(>=2)
+LinkingTo: Rcpp, RcppArmadillo

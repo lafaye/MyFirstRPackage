@@ -1,0 +1,3 @@
+useDynLib(MyFirstRPackage, .registration=TRUE)
+export(reglin, reglin.pvalue)
+export(reglinC, reglinpvalueC)
